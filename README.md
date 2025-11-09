@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1ABCDeFGHIjKLmnOPqRS/view?usp=sharing" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504739.png" width="120" alt="Google Drive Logo"><br>
+    <img src="https://drive.google.com/file/d/1g8JijI3Xw6-Z6YE53vr5abosh5_h2hWg/view?usp=sharing" width="120" alt="Google Drive Logo"><br>
     <b>▶️ Click here to watch the demo on Google Drive</b>
   </a>
 </div>
