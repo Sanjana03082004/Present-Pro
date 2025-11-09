@@ -3,22 +3,14 @@
 <h2 align="center">🎥 Project Demo</h2>
 
 <div align="center">
-  <!-- If you uploaded to YouTube -->
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="70%" alt="Watch Demo Video">
+  <a href="https://drive.google.com/file/d/1ABCDeFGHIjKLmnOPqRS/view?usp=sharing" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504739.png" width="120" alt="Google Drive Logo"><br>
+    <b>▶️ Click here to watch the demo on Google Drive</b>
   </a>
-  <br>
-  <em>▶️ Click the image to watch the full demo on YouTube</em>
 </div>
-
-<!-- OR if your video is small and uploaded to GitHub -->
-<!--
-<div align="center">
-  <video src="https://drive.google.com/file/d/1g8JijI3Xw6-Z6YE53vr5abosh5_h2hWg/view?usp=sharing" width="70%" controls></video>
-</div>
--->
 
 <hr>
+
 
 
 <div align="center">
